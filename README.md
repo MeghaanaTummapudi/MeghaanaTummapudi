@@ -9,5 +9,5 @@ Something about me:
 - 💬 Ask me about - Data Science
 - 📫 How to reach me - http://www.linkedin.com/in/meghaana-tummapudi
 - 😄 Pronouns - She/her/hers
-- ⚡ Fun fact: I love cooking and reading novels!
+
 
